@@ -8,15 +8,17 @@
 - 卡片显示期间会隐藏 ncm 的悬浮音符按钮，避免同一个入口出现两份。
 - 侧边栏折叠成窄栏时不显示卡片，此时可用 ncm 自带的音符按钮。
 
-| 卡片（收起 / 悬浮展开） | 播放列表 | 插件配置页 |
-|---|---|---|
-| ![卡片](docs/screenshots/card.png) | ![播放列表](docs/screenshots/queue.png) | ![配置页](docs/screenshots/config.png) |
+| 播放器关闭后的卡片 | 卡片 + 播放列表 |
+|---|---|
+| ![卡片](docs/screenshots/card-real.png) | ![播放列表](docs/screenshots/queue-real.png) |
 
-手动指定背景色后（卡片与列表同色，文字自动反转）：
+插件配置页（Plugins → 本行 → Configure）：
+
+![配置页](docs/screenshots/config-real.png)
+
+手动指定背景色时的效果 —— 卡片与播放列表同色，文字按明暗自动反转（离线渲染示例）：
 
 ![自定义背景色](docs/screenshots/custom-color.png)
-
-> 截图由插件真实代码在离线渲染台中渲染（伪造播放器状态），不含个人主题/壁纸。
 
 ## 功能
 

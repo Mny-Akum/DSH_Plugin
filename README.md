@@ -2,6 +2,8 @@
 
 存储一些个人创建使用的插件（DSH · DeepSeek Harness）。
 
+![网易云音乐侧边栏卡片](ncm-sidecard/docs/screenshots/queue-real.png)
+
 ## 插件列表
 
 | 目录 | 插件 | 说明 |
