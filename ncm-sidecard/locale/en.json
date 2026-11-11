@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "NetEase Music sidebar card",
+    "description": "When the NetEase Music player is minimized, shows its controls, bilingual lyrics and play queue in the sidebar, with an optional poster-derived Material palette."
+  }
+}

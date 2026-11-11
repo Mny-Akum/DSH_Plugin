@@ -1,0 +1,3 @@
+- insert:
+    - id: ncm-sidecard
+      name: 'dsh-plugin-ncm-sidecard'
